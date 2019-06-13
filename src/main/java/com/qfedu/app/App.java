@@ -6,5 +6,7 @@ package com.qfedu.app;
 public class App {
     public  static  void main(String[] args){
         System.out.println("你好啊！");
+        System.out.println("啊啊啊啊");
+
     }
 }
